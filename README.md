@@ -24,3 +24,5 @@ A curated list of NineChronicles software and resources
 
 ## Library
 - [lib9c](https://github.com/planetarium/lib9c) - A library for Nine Chronicles core.
+- [libplanet](https://github.com/planetarium/libplanet) - A blockchain core in C#/.NET for persistent peer-to-peer online games.
+
