@@ -19,6 +19,7 @@ A curated list of NineChronicles software and resources
 - [9c-infra](https://github.com/planetarium/9c-infra) - The official EKS infrastructure for Nine Chronicles node.
 
 ## Documentation
+- [NCIPs](https://github.com/planetarium/NCIPs) - The repository for Nine Chronicles Improvement Proposals.
 - [NineChronicles Developer Portal](https://github.com/planetarium/www.nine-chronicles.dev) - The official Nine Chronicles developer portal.
 - [NineChronicles official Docs](https://docs.nine-chronicles.com/) - The official documentation for Nine Chronicles.
 
