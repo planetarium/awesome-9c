@@ -3,23 +3,27 @@
 A curated list of NineChronicles software and resources
 
 ## Application
-- [9cmd.top](https://9cmd.top/) - play Nine Chronicles in your browser
-- [chrono](https://github.com/planetarium/chrono) - Nine Chronicles official wallet
-- [NineChronicles](https://github.com/planetarium/NineChronicles) - Nine Chronicles official repository
-- [NineChronicles.Mods](https://github.com/planetarium/NineChronicles.Mods) - mod for Nine Chronicles client
+- [9cmd.top](https://9cmd.top/) - Play Nine Chronicles in your browser.
+- [chrono](https://github.com/planetarium/chrono) - The official wallet for Nine Chronicles.
+- [NineChronicles](https://github.com/planetarium/NineChronicles) - The official repository for Nine Chronicles.
+- [NineChronicles.Mods](https://github.com/planetarium/NineChronicles.Mods) - The official mods for the Nine Chronicles.
 
-## API
-
-- [9capi.com](https://9capi.com/) - A REST API for your Nine Chronicles needs.
-- [9cscan](https://github.com/planetarium/9cscan.com) - Nine Chronicles blockchain explorer
-- [lib9c](https://github.com/planetarium/lib9c) - A library for Nine Chronicles
-- [mimir](https://github.com/planetarium/mimir) - Nine Chronicles utility API backend service
-- [NiChronicles.DataProvider](https://github.com/planetarium/NineChronicles.DataProvider) - data provider for Nine Chronicles
-- [NineChronicles.Headless](https://github.com/planetarium/NineChronicles.Headless/) - node for Nine Chronicles
+## API Services
+- [9capi.com](https://9capi.com/) - A REST API for Nine Chronicles.
+- [9cscan](https://github.com/planetarium/9cscan.com) - The Nine Chronicles blockchain explorer.
+- [mimir](https://github.com/planetarium/mimir) - The Nine Chronicles utility API backend service.
+- [NiChronicles.DataProvider](https://github.com/planetarium/NineChronicles.DataProvider) - A data provider for Nine Chronicles.
+- [NineChronicles.Headless](https://github.com/planetarium/NineChronicles.Headless/) - The official repository node for Nine Chronicles.
 
 ## Deployment
-- [9c-infra](https://github.com/planetarium/9c-infra)
+- [9c-infra](https://github.com/planetarium/9c-infra) - The official EKS infrastructure for Nine Chronicles node.
 
 ## Documentation
-- [NineChronicles Developer Portal](https://github.com/planetarium/www.nine-chronicles.dev) - official Nine Chronicles developer portal
-- [NineChronicles official Docs](https://docs.nine-chronicles.com/) - official Nine Chronicles documentation
+- [NCIPs](https://github.com/planetarium/NCIPs) - The repository for Nine Chronicles Improvement Proposals.
+- [NineChronicles Developer Portal](https://github.com/planetarium/www.nine-chronicles.dev) - The official Nine Chronicles developer portal.
+- [NineChronicles official Docs](https://docs.nine-chronicles.com/) - The official documentation for Nine Chronicles.
+
+## Library
+- [lib9c](https://github.com/planetarium/lib9c) - A library for Nine Chronicles core.
+- [libplanet](https://github.com/planetarium/libplanet) - A blockchain core in C#/.NET for persistent peer-to-peer online games.
+
