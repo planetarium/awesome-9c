@@ -8,6 +8,8 @@ A curated list of NineChronicles software and resources
 - [chrono](https://github.com/planetarium/chrono) - The official wallet for Nine Chronicles. [@planetarium](https://github.com/planetarium)
 - [NineChronicles.Mods](https://github.com/planetarium/NineChronicles.Mods) - The official mods for the Nine Chronicles. [@planetarium](https://github.com/planetarium)
 - [9cscan](https://github.com/planetarium/9cscan.com) - The Nine Chronicles blockchain explorer. [@planetarium](https://github.com/planetarium)
+- [Chronicles Commander](https://discord.gg/YsyszaF5Tv) - Nine Chronicles GQL Player. [@FioX](https://github.com/FioX0)
+- [9CAPI Mobile Market](https://discord.gg/YsyszaF5Tv) - Android application for Nine Chronicles Market. [@FioX](https://github.com/FioX0)
 
 ## API Services
 - [9capi.com](https://9capi.com/) - A REST API for Nine Chronicles. [@FioX](https://github.com/FioX0)
